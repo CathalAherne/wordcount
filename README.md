@@ -6,8 +6,9 @@
      
      
 <p> To Run :
+     Note : If Date time is not specified, current date time will be set as default
      <ul>
-          <li> javac Wordcount.java<li>
-          <li> java Wordcount "/Users/Cathal/Desktop/cantrbry" "01.01.01 00:00:00" <li>
+          <li> javac Wordcount.java</li>
+          <li> java Wordcount "/Users/Cathal/Desktop/cantrbry" "01.01.01 00:00:00"<li>
      <ul>
 </p>
