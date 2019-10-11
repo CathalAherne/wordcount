@@ -8,10 +8,8 @@
            All non alphanumberic characters are filtered out and words are transformed to lowercase
      
 To Run :
+    
+       javac Wordcount.java
+       java Wordcount "/Users/Cathal/Desktop/cantrbry" "01.01.01 00:00:00"
      
-     <ul>
-          <li> javac Wordcount.java</li>
-          <li> java Wordcount "/Users/Cathal/Desktop/cantrbry" "01.01.01 00:00:00"<li>
-     </ul>
-</p>
-</html>
+
