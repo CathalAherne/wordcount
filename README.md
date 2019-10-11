@@ -5,10 +5,8 @@
      
     Note : If Date time is not specified, current date time will be set as default
            All non alphanumberic characters are filtered out and words are transformed to lowercase
-<p>
      
-     
-<p> To Run :
+To Run :
      
      <ul>
           <li> javac Wordcount.java</li>
