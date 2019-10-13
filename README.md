@@ -11,5 +11,7 @@ To Run :
     
        javac Wordcount.java
        java Wordcount "/Users/Cathal/Desktop/cantrbry" "01.01.01 00:00:00"
+       or to use current date time
+       java Wordcount "/Users/Cathal/Desktop/cantrbry" ""
      
 
