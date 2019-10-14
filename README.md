@@ -8,9 +8,9 @@
      
 To Run :
     
-       javac Wordcount.java
-       java Wordcount "Directory" "01.01.01 00:00:00"
+       javac WordCount.java
+       java WordCount "Directory" "01.01.01 00:00:00"
        or to use current date time
-       java Wordcount "Directory"
+       java WordCount "Directory"
      
 
